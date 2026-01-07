@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DanhSachSinhVien>
+  <SinhVien>
+    <MaSinhVien>24174600171</MaSinhVien>
+    <TenSinhVien>Nguyễn Thị Huyền Trang</TenSinhVien>
+    <NamSinh>2006</NamSinh>
+    <Lop>DHKL18A3HN</Lop>
+    <GioiTinh>Nữ</GioiTinh>
+  </SinhVien>
+  <SinhVien>
+    <MaSinhVien>24174600130</MaSinhVien>
+    <TenSinhVien>Nguyễn Văn A</TenSinhVien>
+    <NamSinh>2006</NamSinh>
+    <Lop>DHKL18A3HN</Lop>
+    <GioiTinh>Nam</GioiTinh>
+  </SinhVien>
+</DanhSachSinhVien>
